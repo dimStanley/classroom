@@ -1,0 +1,4 @@
+1. I want to get married => Project Creation
+2. I need to meet people/someone => Project Files
+3. I need to get to know THE SOMEONE => git add
+4. Make the relationship exclusive => git commit -m "we are now exclusive"
